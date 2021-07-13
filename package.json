@@ -17,7 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "serve": "serve /build -p 5051",
+    "serve": "serve -s build -p 5051",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
